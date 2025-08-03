@@ -105,6 +105,6 @@ Offline evaluation is done on historical data, while online evaluation involves 
 ### **Conclusion**
 
 Recommendation systems are an essential component of modern digital platforms. Whether it's helping users find the next movie to watch or the right product to buy, they enhance user satisfaction and engagement. With the rise of AI and machine learning, recommendation systems are becoming more accurate, personalized, and context-aware, driving both user experience and business outcomes.
-*OUTPUT*:
 
-Let me know if you'd like this tailored for a specific domain (e.g., music, shopping), shortened for a slide deck, or formatted for a PDF!
+*OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7fc1ae3e-a059-4ce9-86eb-2c3de749c3e2" />
